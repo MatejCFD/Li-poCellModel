@@ -40,7 +40,7 @@ $v(k) = v(z(k)) - R_{1}i_{R_{1}}(k) - R_{0}i(k)$
 | $\eta(t)$, $\eta(k)$ | Coulombic efficiency | % |
 | $i(t)$, $i(k)$ | Current | [A] |
 | $v(t)$, $v(k)$ | Open circuit voltage (OCV) | [V] |
-| $v(z(t))$, $v(z(k))$ | Voltage dependent on SoC | [A] |
+| $v(z(t))$, $v(z(k))$ | Voltage dependent on SoC | [V] |
 
 
 ## Simulink implementation
